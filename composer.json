@@ -1,5 +1,5 @@
 {
-  "name": "ysamark/trounex-core",
+  "name": "alungeally/trounex",
   "version": "1.0.0",
   "description": "Trounex package",
   "type": "library",
@@ -21,7 +21,7 @@
       "autoload.php"
     ]
   },
-  "homepage": "https://github.com/ysamark/trounex",
+  "homepage": "https://github.com/agostinhosamil/trounex",
   "readme": "./README.md",
   "authors": [
     {
@@ -33,8 +33,8 @@
   ],
   "support": {
     "email": "base.samils@gmail.com",
-    "issues": "https://github.com/ysamark/trounex/issues",
-    "wiki": "https://github.com/ysamark/trounex/wiki"
+    "issues": "https://github.com/agostinhosamil/trounex/issues",
+    "wiki": "https://github.com/agostinhosamil/trounex/wiki"
   },
   "require": {
     "php": ">=7",
